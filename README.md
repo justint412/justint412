@@ -1,22 +1,13 @@
+<div align="center">
+    <img src="https://media1.tenor.com/m/Qcjg7gRDYnkAAAAC/haikyuu.gif"/>
+</div>
 
-<!--
-**justint412/justint412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hey there, I'm Justin! 👋
+# 🏐 Hey there, I'm Justin! 👋
 
 🎓 **Undergraduate @ University of Washington**  
-📘 **Informatics Major** — focusing on pentesting, digital forensics, & system design
+- I am an Informatics major pursuing a career in cybersecurity!
+- I am currently building a strong foundation in blue team defense 🔵 while preparing to transition into red team offensive work 🔴.
+- 🎮 I love playing volleyball and video games, and hope to keep growing both my skills and passions.
 
 ---
 
@@ -30,7 +21,8 @@ Here are some ideas to get you started:
 ---
 
 ### 🌱 Currently Learning
-- Cybersecurity fundamentals  
-- Digital forensics workflows  
+- Pentesting fundamentals  
+- Digital forensics
 - Applied data science (R + Python)  
-- Systems modeling and design  
+- Systems modeling and design
+- Full Stack Web Development
