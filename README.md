@@ -6,7 +6,6 @@
 
 🎓 **Undergraduate @ University of Washington**  
 - I am an Informatics major pursuing a career in cybersecurity!
-- I am currently building a strong foundation in blue team defense 🔵 while preparing to transition into red team offensive work 🔴.
 - 🎮 I love playing volleyball and video games, and hope to keep growing both my skills and passions.
 
 ---
