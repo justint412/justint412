@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="https://media1.tenor.com/m/Qcjg7gRDYnkAAAAC/haikyuu.gif"/>
-</div>
 
 # 🏐 Hey there, I'm Justin! 👋
 
