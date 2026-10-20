@@ -1,5 +1,5 @@
 
-# 🏐 Hey there, I'm Justin! 👋
+# Hey there, I'm Justin!
 
 🎓 **Undergraduate @ University of Washington**  
 - I am an Informatics major pursuing a career in cybersecurity!
